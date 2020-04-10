@@ -1,5 +1,7 @@
 # Doraemon 3D Model Blender
 
+A Doraemon 3D model built using Blender
+
 ## Renders
 ### ------------------------------------------------
 ![d2](https://user-images.githubusercontent.com/43045825/79017213-6f3c0b80-7b8e-11ea-9b53-9c9c4589de54.png)
