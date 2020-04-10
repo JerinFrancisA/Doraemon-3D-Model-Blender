@@ -1,9 +1,6 @@
 # Doraemon 3D Model Blender
 
 ## Renders
-
-### ------------------------------------------------
-![d1](https://user-images.githubusercontent.com/43045825/79017193-61868600-7b8e-11ea-85f5-80c4a8023897.png)
 ### ------------------------------------------------
 ![d2](https://user-images.githubusercontent.com/43045825/79017213-6f3c0b80-7b8e-11ea-9b53-9c9c4589de54.png)
 ### ------------------------------------------------
