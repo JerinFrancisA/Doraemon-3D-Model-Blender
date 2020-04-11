@@ -1,6 +1,6 @@
 # Doraemon 3D Model Blender
 
-A Doraemon 3D model built using Blender
+A Doraemon 3D model built using Blender.
 
 ## Renders
 ### ------------------------------------------------
