@@ -15,3 +15,6 @@ A Doraemon 3D model built using Blender.
 
 ### About author
 email : jerinfrancis77@gmail.com
+
+#### Resources:
+check out blender here : https://www.blender.org/
